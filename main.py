@@ -14,4 +14,10 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
-print(f'hello, suresh')
+#print(f'hello, suresh')
+
+c= int (10)
+a= int (20)
+d=c+a
+print(d)
+
