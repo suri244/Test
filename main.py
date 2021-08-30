@@ -15,9 +15,17 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 #print(f'hello, suresh')
+#year= input("enter your birth year: ")
+#age= 2020- int(year)
+#print(age)
+first=input("first: ")
+Second=input("Second: ")
+#sum= int(first) + int(Second)
+sum= float(first) + float(Second)
+print(sum)
 
-c= int (10)
-a= int (20)
-d=c+a
-print(d)
+
+
+
+
 
